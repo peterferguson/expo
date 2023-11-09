@@ -1617,7 +1617,7 @@ SPEC CHECKSUMS:
   ExpoImage: a02f1b0c514f3521c8b442a93687f927ef2c0d8d
   ExpoKeepAwake: 11a6adc67b21af7a520ee62fe9a014eca6871884
   ExpoLinearGradient: 04e65c5a1bc2eb79953a8636537ef2cbfa743b5b
-  ExpoModulesCore: 785cb3249a2858b4d64a20ac46cd9d60c5cdc3b7
+  ExpoModulesCore: fcb726160f1d9c83751235b80627545cb09ab32b
   EXSplashScreen: 7f6700a75d8d72a5f0e455a7be5b84cd4a4dc431
   EXUpdatesInterface: defbda79f841a0dec9588f2cbf9fdfed52583667
   FBLazyVector: 6bf08f4ec7e5ad995785947b33a45d2e731f30b2
